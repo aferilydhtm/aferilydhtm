@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aferil
 - 🌱 I’m currently learning
 - 📫 Follow my instagram @a.feril.dev (for content)
+- 📫 Follow my instagram @aferil.ydm
 
 <!---
 aferilydhtm/aferilydhtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
